@@ -14,3 +14,7 @@
 
 
 > I have downloaded some data from "Kaggle" ,which verified and trusted site by data scientist and contians original data.Other than that some of the data I have downloaded from Wikipedia.
+
+
+> data which i have used in this notebook is given in Data folder.
+
